@@ -32,15 +32,24 @@ Una aplicación web construida con Laravel, Tailwind CSS, PostgreSQL y Vite. Per
    composer install
    npm install
 
-4. ****
+4. **Configura el entorno:**
+   Copia el archivo .env.example y renómbralo a .env. Luego, configura los detalles de la base de datos y otras variables en el archivo .env:
+    ```bash
+    cp .env.example .env
 
-5. ****
+5. **Genera la clave de la aplicación:**
+   ```bash
+   php artisan key:generate
 
-6. ****
+6. **Migra la base de datos:**
+   ```bash
+   php artisan migrate
 
-7. ****
+7. **Inicia el servidor de desarrollo:**
+   ```bash
+   php artisan serve
 
-8. ****
+8. **Accede a la aplicación en tu navegador:**
 
 
 ## Contribuciones 🤝

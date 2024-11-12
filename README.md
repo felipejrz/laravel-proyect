@@ -52,6 +52,11 @@ Una aplicación web construida con Laravel, Tailwind CSS, PostgreSQL y Vite. Per
 8. **Accede a la aplicación en tu navegador:**
 
 
+## Uso 🧭
+* Inicio de Sesión y Registro: Los usuarios pueden registrarse e iniciar sesión.
+* Página de Inicio y Contacto: Navega por las páginas principales para ver la información básica y de contacto.
+* Gestión del Blog: Los usuarios pueden agregar nuevas publicaciones, editar las existentes o eliminarlas.
+
 ## Contribuciones 🤝
 
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, por favor, abre un "issue" o realiza un "pull request" en GitHub.
@@ -59,7 +64,3 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, por fa
 ## Autor ✨
 
 - **Felipe Jerez** - [felipejrz](https://github.com/felipejrz)
-
-   
-
-   

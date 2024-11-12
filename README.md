@@ -63,4 +63,4 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, por fa
 
 ## Autor ✨
 
-- **Felipe Jerez** - [felipejrz](https://github.com/felipejrz)
+- **Felipe Juárez** - [felipejrz](https://github.com/felipejrz)

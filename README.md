@@ -21,4 +21,36 @@ Una aplicación web construida con Laravel, Tailwind CSS, PostgreSQL y Vite. Per
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/felipejrz/laravel-proyect.git
+
+2. **Accede al directorio del proyecto:**
+   ```bash
+   cd laravel-proyect
+
+3. **Instala las dependencias de PHP y Node.js:**
+   ```bash
+   composer install
+   npm install
+
+4. ****
+
+5. ****
+
+6. ****
+
+7. ****
+
+8. ****
+
+
+## Contribuciones 🤝
+
+Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, por favor, abre un "issue" o realiza un "pull request" en GitHub.
+
+## Autor ✨
+
+- **Felipe Jerez** - [felipejrz](https://github.com/felipejrz)
+
+   
+
+   

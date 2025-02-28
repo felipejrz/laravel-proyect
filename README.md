@@ -1,4 +1,4 @@
-# Mi Página Web en Laravel 🌐📄
+# Pagina Laravel 🌐📄
 
 Una aplicación web construida con Laravel, Tailwind CSS, PostgreSQL y Vite. Permite a los usuarios registrarse e iniciar sesión, y ofrece diferentes secciones como inicio, contacto y blog. En la sección del blog, los usuarios pueden agregar, editar y eliminar publicaciones con un título y contenido.
 
